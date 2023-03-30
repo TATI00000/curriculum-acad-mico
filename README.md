@@ -1,7 +1,7 @@
 **Curriculum académico**
 ========================
 
-<img src="![Imagen de Microsoft 365](doña.jpg)" width"300">
+<img src="Imagen de Microsoft 365\doña.jpg" width"300">
 
 Imagen de Microsoft 365
 
