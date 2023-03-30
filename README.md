@@ -4,11 +4,11 @@
 
 ![Imagen de Microsoft 365](doña.jpg)
 
-- Nombre: Melisa Duran Hogera\
-- Teléfono: 0060-0070\
+- Nombre: Melisa Duran Hogera  
+- Teléfono: 0060-0070  
 - Años: 23 
-- Carrera en Curso: Lic y Bachillerato en Geografia\
-- Correo: Doña_Melisa_Duran@gmail.com\
+- Carrera en Curso: Lic y Bachillerato en Geografia  
+- Correo: Doña_Melisa_Duran@gmail.com  
 
 #### **_Cusos Aprobado:_**
 
