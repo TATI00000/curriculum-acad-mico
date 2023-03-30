@@ -1,8 +1,8 @@
 **Curriculum académico**
 ========================
 
-![Imagen de Microsoft 365](doña.jpg)
-<img src="img\doña.jpg" width"300">
+<img src="![Imagen de Microsoft 365](doña.jpg)" width"300">
+
 Imagen de Microsoft 365
 
 - Nombre: Melisa Duran Hogera  
